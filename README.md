@@ -9,8 +9,11 @@ NLG를 활용한 ChatBot을 개발함 (V2.0)
 ### 4. Serving 기능 적용
 
 
-
+# Architecture
 ![images](images/seq2seq.png)  
+
+# Attention
+![images](images/attention.png)  
 
 
 # Learning Data
